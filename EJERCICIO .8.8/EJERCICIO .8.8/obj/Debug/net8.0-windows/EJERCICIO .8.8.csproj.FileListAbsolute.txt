@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\bin\Debug\net8.0-windows\EJERCICIO .8.8.exe
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\bin\Debug\net8.0-windows\EJERCICIO .8.8.deps.json
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\bin\Debug\net8.0-windows\EJERCICIO .8.8.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\bin\Debug\net8.0-windows\EJERCICIO .8.8.dll
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\bin\Debug\net8.0-windows\EJERCICIO .8.8.pdb
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\obj\Debug\net8.0-windows\EJERCICIO_._8._8.Form1.resources
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\obj\Debug\net8.0-windows\EJERCICIO .8.8.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\obj\Debug\net8.0-windows\EJERCICIO .8.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\obj\Debug\net8.0-windows\EJERCICIO .8.8.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\obj\Debug\net8.0-windows\EJERCICIO .8.8.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\obj\Debug\net8.0-windows\EJERCICIO .8.8.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\obj\Debug\net8.0-windows\EJERCICIO .8.8.sourcelink.json
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\obj\Debug\net8.0-windows\EJERCICIO .8.8.dll
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\obj\Debug\net8.0-windows\refint\EJERCICIO .8.8.dll
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\obj\Debug\net8.0-windows\EJERCICIO .8.8.pdb
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\obj\Debug\net8.0-windows\EJERCICIO .8.8.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\EJERCICIO .8.8\EJERCICIO .8.8\obj\Debug\net8.0-windows\ref\EJERCICIO .8.8.dll
