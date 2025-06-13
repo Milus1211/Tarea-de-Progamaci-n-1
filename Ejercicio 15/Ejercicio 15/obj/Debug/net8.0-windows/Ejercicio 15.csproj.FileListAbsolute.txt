@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\bin\Debug\net8.0-windows\Ejercicio 15.exe
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\bin\Debug\net8.0-windows\Ejercicio 15.deps.json
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\bin\Debug\net8.0-windows\Ejercicio 15.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\bin\Debug\net8.0-windows\Ejercicio 15.dll
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\bin\Debug\net8.0-windows\Ejercicio 15.pdb
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\obj\Debug\net8.0-windows\Ejercicio_15.Form1.resources
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\obj\Debug\net8.0-windows\Ejercicio 15.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\obj\Debug\net8.0-windows\Ejercicio 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\obj\Debug\net8.0-windows\Ejercicio 15.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\obj\Debug\net8.0-windows\Ejercicio 15.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\obj\Debug\net8.0-windows\Ejercicio 15.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\obj\Debug\net8.0-windows\Ejercicio 15.sourcelink.json
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\obj\Debug\net8.0-windows\Ejercicio 15.dll
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\obj\Debug\net8.0-windows\refint\Ejercicio 15.dll
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\obj\Debug\net8.0-windows\Ejercicio 15.pdb
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\obj\Debug\net8.0-windows\Ejercicio 15.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 15\Ejercicio 15\obj\Debug\net8.0-windows\ref\Ejercicio 15.dll

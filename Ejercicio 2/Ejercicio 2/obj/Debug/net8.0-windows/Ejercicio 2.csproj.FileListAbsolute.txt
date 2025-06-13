@@ -14,3 +14,4 @@ C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Do
 C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 2\Ejercicio 2\obj\Debug\net8.0-windows\Ejercicio 2.pdb
 C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 2\Ejercicio 2\obj\Debug\net8.0-windows\Ejercicio 2.genruntimeconfig.cache
 C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 2\Ejercicio 2\obj\Debug\net8.0-windows\ref\Ejercicio 2.dll
+C:\Users\Lenovo\OneDrive - Universidad Federico Henríquez y Carvajal (UFHEC)\Documentos\GitHub\Tarea-de-Progamaci-n-1\Ejercicio 2\Ejercicio 2\obj\Debug\net8.0-windows\Ejercicio 2.sourcelink.json

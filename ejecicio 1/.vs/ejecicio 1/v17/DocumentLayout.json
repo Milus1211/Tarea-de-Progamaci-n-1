@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,8 +54,7 @@
               "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Universidad Federico Henr\u00EDquez y Carvajal (UFHEC)\\Documentos\\GitHub\\Tarea-de-Progamaci-n-1\\ejecicio 1\\ejecicio 1\\ejecicio 1.csproj",
               "RelativeToolTip": "ejecicio 1\\ejecicio 1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-08T00:14:59.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T00:14:59.204Z"
             },
             {
               "$type": "Document",

@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive - Universidad Federico Henr\u00EDquez y Carvajal (UFHEC)\\Documentos\\GitHub\\Tarea-de-Progamaci-n-1\\Ejercicio 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC07AF25-F2ED-4EDF-97A6-2624639EA52A}|Ejercicio 3\\Ejercicio 3.csproj|c:\\users\\lenovo\\onedrive - universidad federico henr\u00EDquez y carvajal (ufhec)\\documentos\\github\\tarea-de-progamaci-n-1\\ejercicio 3\\ejercicio 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CC07AF25-F2ED-4EDF-97A6-2624639EA52A}|Ejercicio 3\\Ejercicio 3.csproj|C:\\Users\\Lenovo\\OneDrive - Universidad Federico Henr\u00EDquez y Carvajal (UFHEC)\\Documentos\\GitHub\\Tarea-de-Progamaci-n-1\\Ejercicio 3\\ejercicio 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CC07AF25-F2ED-4EDF-97A6-2624639EA52A}|Ejercicio 3\\Ejercicio 3.csproj|solutionrelative:ejercicio 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC07AF25-F2ED-4EDF-97A6-2624639EA52A}|Ejercicio 3\\Ejercicio 3.csproj|c:\\users\\lenovo\\onedrive - universidad federico henr\u00EDquez y carvajal (ufhec)\\documentos\\github\\tarea-de-progamaci-n-1\\ejercicio 3\\ejercicio 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC07AF25-F2ED-4EDF-97A6-2624639EA52A}|Ejercicio 3\\Ejercicio 3.csproj|solutionrelative:ejercicio 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Universidad Federico Henr\u00EDquez y Carvajal (UFHEC)\\Documentos\\GitHub\\Tarea-de-Progamaci-n-1\\Ejercicio 3\\Ejercicio 3\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio 3\\Form1.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Universidad Federico Henr\u00EDquez y Carvajal (UFHEC)\\Documentos\\GitHub\\Tarea-de-Progamaci-n-1\\Ejercicio 3\\Ejercicio 3\\Form1.cs [Design]",
-              "RelativeToolTip": "Ejercicio 3\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Universidad Federico Henr\u00EDquez y Carvajal (UFHEC)\\Documentos\\GitHub\\Tarea-de-Progamaci-n-1\\Ejercicio 3\\Ejercicio 3\\Form1.cs",
+              "RelativeToolTip": "Ejercicio 3\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T00:37:07.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive - Universidad Federico Henr\u00EDquez y Carvajal (UFHEC)\\Documentos\\GitHub\\Tarea-de-Progamaci-n-1\\Ejercicio 3\\Ejercicio 3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive - Universidad Federico Henr\u00EDquez y Carvajal (UFHEC)\\Documentos\\GitHub\\Tarea-de-Progamaci-n-1\\Ejercicio 3\\Ejercicio 3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio 3\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T00:34:48.894Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
