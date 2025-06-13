@@ -9,7 +9,7 @@ namespace Ejercicio_3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = textBox1.Text;
+
         }
     }
 }
